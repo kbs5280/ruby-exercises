@@ -1,5 +1,7 @@
 # Ruby Exercises
 
+NOTE: _I use these exercises as a teaching tool for programming students._
+
 A collection of exercises to practice various Ruby concepts.
 
 ## Getting Started
